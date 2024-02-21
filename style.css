@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Electrolize', sans-serif;
+    font-size: 20px;
+}
+
+ul, ol {
+    margin: 2px 10px 2px 10px;
+    padding: 0;
+    list-style-position: inside;
+}
+
+li {
+    margin: 0;
+}
+a{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    font-family: 'Electrolize', sans-serif;
+    font-size: 16px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+#myVideo {
+    filter: brightness(15%);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.icon-nav{
+
+}
+.logo{
+    color: white;
+    font-size: 20px;
+    font-family: 'Electrolize', sans-serif;
+}
+.line{
+    background-color: white;
+    height: 3px;
+}
+.checked {
+    color: orange;
+}
+input{
+    font-family: "Electrolize", sans-serif;
+}
+
+.line2{
+    background-color: white;
+    height: 1px;
+}
+.bg-link{
+    color: #6495ed;
+}
+.btn1 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    background-color: #6a1c1c;
+}
+.text-header1{
+    position: absolute;
+    top: 50% ;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.næste{
+    color:#6a1c1c;
+}
+.nav-item{
+    padding: 17px;
+}

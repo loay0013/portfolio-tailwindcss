@@ -1,0 +1,6 @@
+# Project exclude paths
+.idea
+node_modules
+css/*.css
+css/*.css.map
+
